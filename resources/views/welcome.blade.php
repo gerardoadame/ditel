@@ -79,7 +79,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Bienvenidos a Ditel
+                    Ditel Prro
                 </div>
 
                 <div class="links">
