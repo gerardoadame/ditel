@@ -79,7 +79,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Ditel Prro
+                    Ditel Prro no sale 
                 </div>
 
                 <div class="links">
